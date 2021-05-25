@@ -1,0 +1,35 @@
+Binding '<Super>S' failed!
+
+Connected to Application Indicator Service.
+Request current apps
+gtk_distribute_natural_allocation: assertion 'extra_space >= 0' failed
+gtk_distribute_natural_allocation: assertion 'extra_space >= 0' failed
+Signal: Entry Added
+Building new application entry: :1.46  with icon: nm-device-wired at position 0
+Building new application entry: :1.68  with icon: blueman-tray at position 0
+Building new application entry: org.kde.StatusNotifierItem-18492-1  with icon: /run/user/1000/qt-trayicon-gYeeNt.png at position 1
+gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+Signal: Entry Removed
+Building new application entry: org.kde.StatusNotifierItem-18492-1  with icon: /run/user/1000/qt-trayicon-cYwIZB.png at position 1
+gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+default_secondary_clicked_handler: setting scale to upper bound
+Signal: Entry Removed
+Building new application entry: org.kde.StatusNotifierItem-18492-1  with icon: /run/user/1000/qt-trayicon-JmOGyI.png at position 1
+gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+Getting layout failed: Действие было отменено
+Signal: Entry Removed
+Building new application entry: org.kde.StatusNotifierItem-18492-1  with icon: /run/user/1000/qt-trayicon-uxHKZZ.png at position 1
+gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+Signal: Entry Removed
+Building new application entry: org.kde.StatusNotifierItem-18492-1  with icon: /run/user/1000/qt-trayicon-eXLtLB.png at position 1
+gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+Getting layout failed: Действие было отменено
+Signal: Entry Removed
+Building new application entry: org.kde.StatusNotifierItem-18492-1  with icon: /run/user/1000/qt-trayicon-GAGUry.png at position 1
+gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+Signal: Entry Removed
+Building new application entry: org.kde.StatusNotifierItem-18492-1  with icon: /run/user/1000/qt-trayicon-flwRlb.png at position 1
+gtk_distribute_natural_allocation: assertion 'extra_space >= 0' failed
+gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
